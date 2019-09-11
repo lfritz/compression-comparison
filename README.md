@@ -29,4 +29,4 @@ You'll need
 
 * [Go](https://golang.org/dl/), of course.
 * The Brotli library, including header files. On Ubuntu, `sudo apt install libbrotli-dev` should do
-  the trick.
+  the trick. On macOS, you can do `brew install brotli`.
